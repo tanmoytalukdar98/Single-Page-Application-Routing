@@ -49,7 +49,6 @@ The application supports navigation between multiple pages without browser reloa
 | `/contact`   | Contact        |
 | `/dashboard` | Dashboard      |
 | `/profile`   | Profile        |
-| `*`          | Page Not Found |
 
 ---
 
